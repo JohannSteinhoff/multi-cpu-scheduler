@@ -192,25 +192,3 @@ GRADING BREAKDOWN
   ✓ Results interpretation
 
 ================================================================================
-NEED HELP?
-================================================================================
-
-1. Read the code comments - they explain everything
-2. Check README.md for detailed documentation
-3. Check SUBMISSION_GUIDE.md for submission instructions
-4. Test with simple parameters first
-5. Compare your output with the results.csv data
-
-================================================================================
-YOU'RE READY TO SUBMIT!
-================================================================================
-
-Everything is complete and tested. The code works correctly, produces
-accurate results, and is extensively commented.
-
-Just read through the code to understand it, run the tests, create your
-plots, and write your interpretation.
-
-Good luck!
-
-================================================================================
